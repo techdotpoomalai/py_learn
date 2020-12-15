@@ -1,0 +1,2 @@
+1.	obj.ljust(arc) => It justfy object name or return object name
+2.	getattr(obj,arc) => it's given arc name of object stored value
